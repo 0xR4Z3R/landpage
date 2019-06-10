@@ -46,8 +46,8 @@ header.startup {
 }
 
 .btn-primary:hover {
-  background-color: darkblue;
-  border-color: black;
-  border-width: 5px;
+  background-color: black;
+  border-color: green;
+/*   border-width: 5px; */
   cursor: pointer;
 }
