@@ -45,6 +45,7 @@ header.startup {
   font-family: 'Montserrat', sans-serif;
   margin:0 auto;
   display: block;
+  text-align: center;
 }
 
 .btn-primary:hover {
